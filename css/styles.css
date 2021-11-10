@@ -176,6 +176,7 @@ body {
   color: var(--third-logo-color);
 }
 .footer-adress {
+  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
@@ -183,6 +184,7 @@ body {
   color: var(--third-text-color);
 }
 .footer-mail {
+  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
@@ -194,6 +196,7 @@ body {
   color: var(--assent-color);
 }
 .footer-tel {
+  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
@@ -203,12 +206,6 @@ body {
 .footer-tel:hover,
 .footer-tel:focus {
   color: var(--assent-color);
-}
-
-.footer-adress,
-.footer-mail,
-.footer-tel {
-  cursor: default;
 }
 
 /* ------------PORTFOLIO------------------ */
