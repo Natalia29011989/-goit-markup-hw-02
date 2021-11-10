@@ -205,6 +205,12 @@ body {
   color: var(--assent-color);
 }
 
+.footer-adress,
+.footer-mail,
+.footer-tel {
+  cursor: default;
+}
+
 /* ------------PORTFOLIO------------------ */
 .visually-hidden {
   position: absolute;
